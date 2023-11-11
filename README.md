@@ -10,6 +10,7 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-3b08e0?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
 
 </br>
+[![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
 Y otras...
 <!--
 **Beloxp/beloxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
