@@ -20,7 +20,7 @@
 ---
 
 ### Contactos 🌎:
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/beloxp)
+[![X](https://img.shields.io/badge/Beloxp-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/beloxp)
 
 [![X](https://img.shields.io/badge/logo=X)](https://twitter.com/beloxp)
 
