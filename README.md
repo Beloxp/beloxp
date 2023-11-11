@@ -15,11 +15,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 </br>
 
+Y otras..
 
 
-
-
-Y otras...
 <!--
 **Beloxp/beloxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
