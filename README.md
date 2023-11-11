@@ -4,7 +4,7 @@
 
 ## Tecnologías:
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
-[![Python](https://img.shields.io/badge/Django-cyan?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+[![Django](https://img.shields.io/badge/Django-cyan?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
