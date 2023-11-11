@@ -3,6 +3,7 @@
 ##### Soy un fan de las tecnologías, y muy dedicado al estudio de estas!!
 
 ## Tecnologías:
+
 [![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
 </br>
