@@ -22,8 +22,6 @@
 ### Contactos 🌎:
 [![X](https://img.shields.io/badge/Beloxp-000000?style=plastic&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/beloxp)
 
-[![X](https://img.shields.io/badge/logo=X)](https://twitter.com/beloxp)
-
 <!--
 **Beloxp/beloxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
