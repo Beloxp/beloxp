@@ -20,8 +20,8 @@
 ---
 
 ### Contactos 🌎:
-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/beloxp)
-- [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logo)](https://twitter.com/beloxp)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white&labelColor=101010)](https://twitter.com/beloxp)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logo)](https://twitter.com/beloxp)
 
 <!--
 **Beloxp/beloxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
