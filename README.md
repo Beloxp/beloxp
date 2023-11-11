@@ -8,10 +8,11 @@
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MariaDB](https://img.shields.io/badge/MariaDB-3b08e0?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
-
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white&labelColor=101010)]()
 </br>
-
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=101010)]()
+
+
 
 
 Y otras...
