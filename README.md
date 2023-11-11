@@ -7,6 +7,7 @@
 [![Python](https://img.shields.io/badge/Django-cyan?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white&labelColor=101010)]()
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white&labelColor=101010)]()
 </br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![MariaDB](https://img.shields.io/badge/MariaDB-3b08e0?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
