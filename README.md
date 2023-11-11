@@ -10,7 +10,9 @@
 [![MariaDB](https://img.shields.io/badge/MariaDB-3b08e0?style=for-the-badge&logo=mariadb&logoColor=white&labelColor=101010)]()
 
 </br>
+
 [![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white&labelColor=101010)]()
+
 
 Y otras...
 <!--
